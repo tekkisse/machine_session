@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "MachineSessionAgent\\MachineSessionAgent.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DesktopMonitor\\DesktopMonitor.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
