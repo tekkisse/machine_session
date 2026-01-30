@@ -9,6 +9,10 @@
       {
         "Path": "DesktopMonitor\\DesktopMonitor.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "SeRPMessenger\\SeRPMessenger.csproj",
+        "Action": "Start"
       }
     ]
   }
