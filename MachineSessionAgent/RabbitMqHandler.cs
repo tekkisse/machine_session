@@ -19,26 +19,24 @@ public sealed class RabbitMqHandler
         await channel.BasicConsumeAsync(queue, true, consumer);
     }
 
-   
+
 
     private async Task HandleMessageAsync(object sender, BasicDeliverEventArgs e)
     {
-        var json = Encoding.UTF8.GetString(e.Body.ToArray());
-        var command = JsonSerializer.Deserialize<CommandMessage>(json);
+        var command = Encoding.UTF8.GetString(e.Body.ToArray());
 
-        if (command == null)
-            return;
-
-        if (command.Command == "reboot")
+        if (command == "reboot")
         {
             Execute("shutdown", "/r /f /t 0");
         }
-        else if (command.Command == "logout")
+        else if (command == "logout")
         {
             Execute("shutdown", "/l /f");
         }
 
         await Task.CompletedTask;
+
+
     }
 
     private static void Execute(string file, string args)
@@ -52,5 +50,5 @@ public sealed class RabbitMqHandler
         });
     }
 
-    private record CommandMessage(string Command, string? User);
+ 
 }
