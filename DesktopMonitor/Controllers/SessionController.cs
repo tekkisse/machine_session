@@ -17,12 +17,12 @@ namespace DesktopMonitor.Controllers
             _db = redis.GetDatabase();
         }
 
-        [HttpPost("heartbeat")]
-        public async Task<IActionResult> Heartbeat([FromBody] HeartbeatDto dto)
-        {
-            await _service.ProcessHeartbeatAsync(dto);
-            return Ok();
-        }
+        //[HttpPost("heartbeat")]
+        //public async Task<IActionResult> Heartbeat([FromBody] HeartbeatDto dto)
+        //{
+        //    await _service.ProcessHeartbeatAsync(dto);
+        //    return Ok();
+        //}
 
  
 
