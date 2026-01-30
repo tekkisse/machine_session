@@ -6,7 +6,7 @@ Host.CreateDefaultBuilder(args)
     .ConfigureServices(services =>
     {
         services.AddHostedService<AgentWorker>();
-        services.AddSingleton<RabbitMqListener>();
+        services.AddSingleton<RabbitMqHandler>();
         services.AddSingleton<SessionDetector>();
         services.AddHttpClient();
     })

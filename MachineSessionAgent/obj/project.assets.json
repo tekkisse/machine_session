@@ -743,6 +743,19 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "RabbitMQStuff/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "RabbitMQ.Client": "7.2.0"
+        },
+        "compile": {
+          "bin/placeholder/RabbitMQStuff.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RabbitMQStuff.dll": {}
+        }
       }
     }
   },
@@ -1890,13 +1903,19 @@
         "system.threading.ratelimiting.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "RabbitMQStuff/1.0.0": {
+      "type": "project",
+      "path": "../RabbitMQStuff/RabbitMQStuff.csproj",
+      "msbuildProject": "../RabbitMQStuff/RabbitMQStuff.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "Microsoft.Extensions.Hosting >= 10.0.1",
       "Microsoft.Extensions.Http >= 10.0.1",
-      "RabbitMQ.Client >= 7.2.0"
+      "RabbitMQ.Client >= 7.2.0",
+      "RabbitMQStuff >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1906,11 +1925,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\project separation\\MachineSessionAgent\\MachineSessionAgent.csproj",
+      "projectUniqueName": "C:\\Users\\simon\\source\\repos\\machine_session\\MachineSessionAgent\\MachineSessionAgent.csproj",
       "projectName": "MachineSessionAgent",
-      "projectPath": "C:\\temp\\project separation\\MachineSessionAgent\\MachineSessionAgent.csproj",
+      "projectPath": "C:\\Users\\simon\\source\\repos\\machine_session\\MachineSessionAgent\\MachineSessionAgent.csproj",
       "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-      "outputPath": "C:\\temp\\project separation\\MachineSessionAgent\\obj\\",
+      "outputPath": "C:\\Users\\simon\\source\\repos\\machine_session\\MachineSessionAgent\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1930,7 +1949,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\simon\\source\\repos\\machine_session\\RabbitMQStuff\\RabbitMQStuff.csproj": {
+              "projectPath": "C:\\Users\\simon\\source\\repos\\machine_session\\RabbitMQStuff\\RabbitMQStuff.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using RabbitMQStuff;
 using StackExchange.Redis;
 
 namespace DesktopMonitor.Controllers

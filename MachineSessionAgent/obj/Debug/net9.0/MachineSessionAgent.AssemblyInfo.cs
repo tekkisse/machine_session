@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MachineSessionAgent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1495682aaaf78b62c55efd724ffad8c1d84d7066")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5327a296e8120f065835caaf22a3cfa756053e13")]
 [assembly: System.Reflection.AssemblyProductAttribute("MachineSessionAgent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MachineSessionAgent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

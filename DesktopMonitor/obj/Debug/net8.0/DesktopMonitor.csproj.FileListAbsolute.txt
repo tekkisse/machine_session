@@ -36,3 +36,46 @@ C:\temp\project separation\DesktopMonitor\obj\Debug\net8.0\ref\DesktopMonitor.dl
 C:\temp\project separation\DesktopMonitor\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
 C:\temp\project separation\DesktopMonitor\bin\Debug\net8.0\StackExchange.Redis.dll
 C:\temp\project separation\DesktopMonitor\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\bin\Debug\net8.0\appsettings.json
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\bin\Debug\net8.0\DesktopMonitor.staticwebassets.endpoints.json
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\bin\Debug\net8.0\DesktopMonitor.exe
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\bin\Debug\net8.0\DesktopMonitor.deps.json
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\bin\Debug\net8.0\DesktopMonitor.runtimeconfig.json
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\bin\Debug\net8.0\DesktopMonitor.dll
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\bin\Debug\net8.0\DesktopMonitor.pdb
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\bin\Debug\net8.0\RabbitMQStuff.dll
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\bin\Debug\net8.0\RabbitMQStuff.pdb
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\obj\Debug\net8.0\DesktopMonitor.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\obj\Debug\net8.0\DesktopMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\obj\Debug\net8.0\DesktopMonitor.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\obj\Debug\net8.0\DesktopMonitor.AssemblyInfo.cs
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\obj\Debug\net8.0\DesktopMonitor.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\obj\Debug\net8.0\DesktopMonitor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\obj\Debug\net8.0\DesktopMonitor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\obj\Debug\net8.0\DesktopMonitor.sourcelink.json
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\obj\Debug\net8.0\scopedcss\bundle\DesktopMonitor.styles.css
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\obj\Debug\net8.0\DesktopM.073A48AE.Up2Date
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\obj\Debug\net8.0\DesktopMonitor.dll
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\obj\Debug\net8.0\refint\DesktopMonitor.dll
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\obj\Debug\net8.0\DesktopMonitor.pdb
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\obj\Debug\net8.0\DesktopMonitor.genruntimeconfig.cache
+C:\Users\simon\source\repos\machine_session\DesktopMonitor\obj\Debug\net8.0\ref\DesktopMonitor.dll

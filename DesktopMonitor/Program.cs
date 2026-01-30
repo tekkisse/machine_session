@@ -25,6 +25,8 @@ builder.Services.AddSingleton<IConnectionMultiplexer>(sp =>
     return ConnectionMultiplexer.Connect(config);
 });
 
+builder.Services.AddHostedService<RabbitMqConsumerService>();
+
 builder.Services.AddSingleton<SessionStateService>();
 
 builder.Services.AddControllers();

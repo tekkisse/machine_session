@@ -1,4 +1,5 @@
-﻿using StackExchange.Redis;
+﻿using RabbitMQStuff;
+using StackExchange.Redis;
 
 namespace DesktopMonitor
 {

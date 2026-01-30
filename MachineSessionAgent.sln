@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineSessionAgent", "Mach
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesktopMonitor", "DesktopMonitor\DesktopMonitor.csproj", "{AAD2B856-DA2C-401B-8880-152C8C814CDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQStuff", "RabbitMQStuff\RabbitMQStuff.csproj", "{8D91C26E-9FE6-49C0-B2BF-7FD044B1FED2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{AAD2B856-DA2C-401B-8880-152C8C814CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAD2B856-DA2C-401B-8880-152C8C814CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAD2B856-DA2C-401B-8880-152C8C814CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D91C26E-9FE6-49C0-B2BF-7FD044B1FED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D91C26E-9FE6-49C0-B2BF-7FD044B1FED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D91C26E-9FE6-49C0-B2BF-7FD044B1FED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D91C26E-9FE6-49C0-B2BF-7FD044B1FED2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

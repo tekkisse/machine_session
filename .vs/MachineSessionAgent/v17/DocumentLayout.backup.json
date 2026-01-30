@@ -1,34 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\temp\\project separation\\",
+  "WorkspaceRootPath": "C:\\Users\\simon\\source\\repos\\machine_session\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F69964AF-924A-54DA-026B-EB99429B5A4F}|MachineSessionAgent\\MachineSessionAgent.csproj|c:\\temp\\project separation\\machinesessionagent\\rabbitmqlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F69964AF-924A-54DA-026B-EB99429B5A4F}|MachineSessionAgent\\MachineSessionAgent.csproj|solutionrelative:machinesessionagent\\rabbitmqlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAD2B856-DA2C-401B-8880-152C8C814CDD}|DesktopMonitor\\DesktopMonitor.csproj|c:\\users\\simon\\source\\repos\\machine_session\\desktopmonitor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AAD2B856-DA2C-401B-8880-152C8C814CDD}|DesktopMonitor\\DesktopMonitor.csproj|solutionrelative:desktopmonitor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F69964AF-924A-54DA-026B-EB99429B5A4F}|MachineSessionAgent\\MachineSessionAgent.csproj|c:\\temp\\project separation\\machinesessionagent\\agentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AAD2B856-DA2C-401B-8880-152C8C814CDD}|DesktopMonitor\\DesktopMonitor.csproj|c:\\users\\simon\\source\\repos\\machine_session\\desktopmonitor\\sessionstateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD2B856-DA2C-401B-8880-152C8C814CDD}|DesktopMonitor\\DesktopMonitor.csproj|solutionrelative:desktopmonitor\\sessionstateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD2B856-DA2C-401B-8880-152C8C814CDD}|DesktopMonitor\\DesktopMonitor.csproj|c:\\users\\simon\\source\\repos\\machine_session\\desktopmonitor\\rabbitmqconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD2B856-DA2C-401B-8880-152C8C814CDD}|DesktopMonitor\\DesktopMonitor.csproj|solutionrelative:desktopmonitor\\rabbitmqconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69964AF-924A-54DA-026B-EB99429B5A4F}|MachineSessionAgent\\MachineSessionAgent.csproj|c:\\users\\simon\\source\\repos\\machine_session\\machinesessionagent\\agentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F69964AF-924A-54DA-026B-EB99429B5A4F}|MachineSessionAgent\\MachineSessionAgent.csproj|solutionrelative:machinesessionagent\\agentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F69964AF-924A-54DA-026B-EB99429B5A4F}|MachineSessionAgent\\MachineSessionAgent.csproj|c:\\temp\\project separation\\machinesessionagent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F69964AF-924A-54DA-026B-EB99429B5A4F}|MachineSessionAgent\\MachineSessionAgent.csproj|solutionrelative:machinesessionagent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAD2B856-DA2C-401B-8880-152C8C814CDD}|DesktopMonitor\\DesktopMonitor.csproj|c:\\temp\\project separation\\desktopmonitor\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AAD2B856-DA2C-401B-8880-152C8C814CDD}|DesktopMonitor\\DesktopMonitor.csproj|c:\\users\\simon\\source\\repos\\machine_session\\desktopmonitor\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAD2B856-DA2C-401B-8880-152C8C814CDD}|DesktopMonitor\\DesktopMonitor.csproj|solutionrelative:desktopmonitor\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAD2B856-DA2C-401B-8880-152C8C814CDD}|DesktopMonitor\\DesktopMonitor.csproj|c:\\temp\\project separation\\desktopmonitor\\heartbeatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAD2B856-DA2C-401B-8880-152C8C814CDD}|DesktopMonitor\\DesktopMonitor.csproj|solutionrelative:desktopmonitor\\heartbeatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D91C26E-9FE6-49C0-B2BF-7FD044B1FED2}|RabbitMQStuff\\RabbitMQStuff.csproj|c:\\users\\simon\\source\\repos\\machine_session\\rabbitmqstuff\\heartbeatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D91C26E-9FE6-49C0-B2BF-7FD044B1FED2}|RabbitMQStuff\\RabbitMQStuff.csproj|solutionrelative:rabbitmqstuff\\heartbeatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAD2B856-DA2C-401B-8880-152C8C814CDD}|DesktopMonitor\\DesktopMonitor.csproj|c:\\temp\\project separation\\desktopmonitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAD2B856-DA2C-401B-8880-152C8C814CDD}|DesktopMonitor\\DesktopMonitor.csproj|solutionrelative:desktopmonitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F69964AF-924A-54DA-026B-EB99429B5A4F}|MachineSessionAgent\\MachineSessionAgent.csproj|c:\\users\\simon\\source\\repos\\machine_session\\machinesessionagent\\rabbitmqhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69964AF-924A-54DA-026B-EB99429B5A4F}|MachineSessionAgent\\MachineSessionAgent.csproj|solutionrelative:machinesessionagent\\rabbitmqhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAD2B856-DA2C-401B-8880-152C8C814CDD}|DesktopMonitor\\DesktopMonitor.csproj|c:\\temp\\project separation\\desktopmonitor\\sessionstateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAD2B856-DA2C-401B-8880-152C8C814CDD}|DesktopMonitor\\DesktopMonitor.csproj|solutionrelative:desktopmonitor\\sessionstateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\simon\\source\\repos\\machine_session\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,92 +67,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RabbitMqListener.cs",
-              "DocumentMoniker": "C:\\temp\\project separation\\MachineSessionAgent\\RabbitMqListener.cs",
-              "RelativeDocumentMoniker": "MachineSessionAgent\\RabbitMqListener.cs",
-              "ToolTip": "C:\\temp\\project separation\\MachineSessionAgent\\RabbitMqListener.cs",
-              "RelativeToolTip": "MachineSessionAgent\\RabbitMqListener.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T11:31:28.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\temp\\project separation\\MachineSessionAgent\\Program.cs",
-              "RelativeDocumentMoniker": "MachineSessionAgent\\Program.cs",
-              "ToolTip": "C:\\temp\\project separation\\MachineSessionAgent\\Program.cs",
-              "RelativeToolTip": "MachineSessionAgent\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T11:31:18.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HeartbeatDTO.cs",
-              "DocumentMoniker": "C:\\temp\\project separation\\DesktopMonitor\\HeartbeatDTO.cs",
-              "RelativeDocumentMoniker": "DesktopMonitor\\HeartbeatDTO.cs",
-              "ToolTip": "C:\\temp\\project separation\\DesktopMonitor\\HeartbeatDTO.cs",
-              "RelativeToolTip": "DesktopMonitor\\HeartbeatDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T11:30:24.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\temp\\project separation\\DesktopMonitor\\Program.cs",
-              "RelativeDocumentMoniker": "DesktopMonitor\\Program.cs",
-              "ToolTip": "C:\\temp\\project separation\\DesktopMonitor\\Program.cs",
-              "RelativeToolTip": "DesktopMonitor\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T11:30:01.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SessionStateService.cs",
-              "DocumentMoniker": "C:\\temp\\project separation\\DesktopMonitor\\SessionStateService.cs",
-              "RelativeDocumentMoniker": "DesktopMonitor\\SessionStateService.cs",
-              "ToolTip": "C:\\temp\\project separation\\DesktopMonitor\\SessionStateService.cs",
-              "RelativeToolTip": "DesktopMonitor\\SessionStateService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T11:29:23.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SessionController.cs",
-              "DocumentMoniker": "C:\\temp\\project separation\\DesktopMonitor\\Controllers\\SessionController.cs",
-              "RelativeDocumentMoniker": "DesktopMonitor\\Controllers\\SessionController.cs",
-              "ToolTip": "C:\\temp\\project separation\\DesktopMonitor\\Controllers\\SessionController.cs",
-              "RelativeToolTip": "DesktopMonitor\\Controllers\\SessionController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T11:29:05.764Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\machine_session\\DesktopMonitor\\appsettings.json",
+              "RelativeDocumentMoniker": "DesktopMonitor\\appsettings.json",
+              "ToolTip": "C:\\Users\\simon\\source\\repos\\machine_session\\DesktopMonitor\\appsettings.json",
+              "RelativeToolTip": "DesktopMonitor\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-30T16:32:48.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AgentWorker.cs",
-              "DocumentMoniker": "C:\\temp\\project separation\\MachineSessionAgent\\AgentWorker.cs",
-              "RelativeDocumentMoniker": "MachineSessionAgent\\AgentWorker.cs",
-              "ToolTip": "C:\\temp\\project separation\\MachineSessionAgent\\AgentWorker.cs",
-              "RelativeToolTip": "MachineSessionAgent\\AgentWorker.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAowDUAAAAnAAAAAAAAAA==",
+              "Title": "SessionStateService.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\machine_session\\DesktopMonitor\\SessionStateService.cs",
+              "RelativeDocumentMoniker": "DesktopMonitor\\SessionStateService.cs",
+              "ToolTip": "C:\\Users\\simon\\source\\repos\\machine_session\\DesktopMonitor\\SessionStateService.cs",
+              "RelativeToolTip": "DesktopMonitor\\SessionStateService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T14:02:52.117Z",
+              "WhenOpened": "2026-01-30T16:28:24.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HeartbeatDto.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\machine_session\\RabbitMQStuff\\HeartbeatDto.cs",
+              "RelativeDocumentMoniker": "RabbitMQStuff\\HeartbeatDto.cs",
+              "ToolTip": "C:\\Users\\simon\\source\\repos\\machine_session\\RabbitMQStuff\\HeartbeatDto.cs",
+              "RelativeToolTip": "RabbitMQStuff\\HeartbeatDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T16:27:24.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgentWorker.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\machine_session\\MachineSessionAgent\\AgentWorker.cs",
+              "RelativeDocumentMoniker": "MachineSessionAgent\\AgentWorker.cs",
+              "ToolTip": "C:\\Users\\simon\\source\\repos\\machine_session\\MachineSessionAgent\\AgentWorker.cs",
+              "RelativeToolTip": "MachineSessionAgent\\AgentWorker.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAowDcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T16:26:46.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RabbitMqHandler.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\machine_session\\MachineSessionAgent\\RabbitMqHandler.cs",
+              "RelativeDocumentMoniker": "MachineSessionAgent\\RabbitMqHandler.cs",
+              "ToolTip": "C:\\Users\\simon\\source\\repos\\machine_session\\MachineSessionAgent\\RabbitMqHandler.cs",
+              "RelativeToolTip": "MachineSessionAgent\\RabbitMqHandler.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T16:26:30.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\machine_session\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\simon\\source\\repos\\machine_session\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-01-30T16:22:55.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SessionController.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\machine_session\\DesktopMonitor\\Controllers\\SessionController.cs",
+              "RelativeDocumentMoniker": "DesktopMonitor\\Controllers\\SessionController.cs",
+              "ToolTip": "C:\\Users\\simon\\source\\repos\\machine_session\\DesktopMonitor\\Controllers\\SessionController.cs",
+              "RelativeToolTip": "DesktopMonitor\\Controllers\\SessionController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAjwBYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T16:19:42.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RabbitMqConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\machine_session\\DesktopMonitor\\RabbitMqConsumerService.cs",
+              "RelativeDocumentMoniker": "DesktopMonitor\\RabbitMqConsumerService.cs",
+              "ToolTip": "C:\\Users\\simon\\source\\repos\\machine_session\\DesktopMonitor\\RabbitMqConsumerService.cs",
+              "RelativeToolTip": "DesktopMonitor\\RabbitMqConsumerService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAArwC4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T16:19:39.315Z",
               "EditorCaption": ""
             }
           ]
